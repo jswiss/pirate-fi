@@ -1,0 +1,26 @@
+.nav-wrapper {
+  background: dodgerblue;
+}
+
+.card {
+  background: cadetblue;
+}
+
+.iframe {
+  z-index: 50;
+  margin-left: 45px;
+}
+
+.card {
+  margin-top: 40px;
+  width: 600px;
+}
+
+a.brand-logo {
+  margin-left: 20px;
+}
+
+.vid_title {
+  font-size: 18px;
+  font-weight: bold;
+}
